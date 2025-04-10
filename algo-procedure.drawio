@@ -111,11 +111,25 @@
             <mxPoint x="869.9999999999998" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jqg5RBnZQlr8fAJzDTt4-45" value="&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-stretch: inherit; line-height: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; vertical-align: baseline; caret-color: rgba(0, 0, 0, 0.9); color: rgba(0, 0, 0, 0.9); text-align: start;&quot;&gt;Operator D&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-stretch: inherit; line-height: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; vertical-align: baseline; caret-color: rgba(0, 0, 0, 0.9); color: rgba(0, 0, 0, 0.9); text-align: start;&quot;&gt;ecomposition&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.9), rgb(237, 237, 237)); font-variant-ligatures: inherit; text-align: start; caret-color: light-dark(rgba(0, 0, 0, 0.9), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;Engine&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="420" y="335" width="300" height="60" as="geometry" />
+        <mxCell id="Jqg5RBnZQlr8fAJzDTt4-45" value="&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-stretch: inherit; line-height: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; vertical-align: baseline; caret-color: rgba(0, 0, 0, 0.9); color: rgba(0, 0, 0, 0.9); text-align: start;&quot;&gt;Operator D&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-stretch: inherit; line-height: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; vertical-align: baseline; caret-color: rgba(0, 0, 0, 0.9); color: rgba(0, 0, 0, 0.9); text-align: start;&quot;&gt;ecomposition&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="335" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jqg5RBnZQlr8fAJzDTt4-47" value="Virtual Workload Generation Engine" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="740" y="400" width="330" height="60" as="geometry" />
+        <mxCell id="Jqg5RBnZQlr8fAJzDTt4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jqg5RBnZQlr8fAJzDTt4-47" target="Jqg5RBnZQlr8fAJzDTt4-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jqg5RBnZQlr8fAJzDTt4-47" value="Virtual Workload Generation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="700" y="400" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jqg5RBnZQlr8fAJzDTt4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jqg5RBnZQlr8fAJzDTt4-48" target="Jqg5RBnZQlr8fAJzDTt4-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jqg5RBnZQlr8fAJzDTt4-48" value="Workload Post Process" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="700" y="520" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jqg5RBnZQlr8fAJzDTt4-51" value="workload_{i}.json" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
