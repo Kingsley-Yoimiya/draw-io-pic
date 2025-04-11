@@ -34,7 +34,7 @@
         <mxCell id="JuViLx1QVhQyy7v12xyf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;" edge="1" parent="JuViLx1QVhQyy7v12xyf-1" source="JuViLx1QVhQyy7v12xyf-11" target="JuViLx1QVhQyy7v12xyf-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JuViLx1QVhQyy7v12xyf-11" value="Python" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JuViLx1QVhQyy7v12xyf-1">
+        <mxCell id="JuViLx1QVhQyy7v12xyf-11" value="Python" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="JuViLx1QVhQyy7v12xyf-1">
           <mxGeometry x="230" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JuViLx1QVhQyy7v12xyf-13" value="Backends" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="JuViLx1QVhQyy7v12xyf-1">
